@@ -1,0 +1,11 @@
+,Trial,TMS enabled,S1/S2 enabled,CES intensity,S1 delay,S2 delay,TMS delay,S1 rate
+1,TMS only,Y,N,na,0,1,0,10
+2,CES 80%,N,Y,11.2,0,1,0,10
+3,CES 90%,N,Y,12.6,0,1,0,10
+4,CES 150%,N,Y,21,0,1,0,10
+5,T+C80 ISI1,Y,Y,11.2,8.69,1,0,10
+6,T+C80 ISI2,Y,Y,11.2,0,1,6.31,10
+7,T+C90 ISI1,Y,Y,12.6,8.69,1,0,10
+8,T+C90 ISI2,Y,Y,12.6,0,1,6.31,10
+9,T+C150 ISI1,Y,Y,21,9.19,1,0,10
+10,T+C150 ISI2,Y,Y,21,0,1,5.81,10
